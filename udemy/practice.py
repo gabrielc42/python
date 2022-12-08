@@ -7,9 +7,13 @@
 # input = input("Please type something and press enter: ")
 # print("You entered: \n", input)
 
+# get input from user
 text = input('What did the cat say?')
+
+# determine length of input
 text_length = len(text)
 
+# make border same size as input
 print('           {}'.format('_' * text_length))
 print('         < {} >'.format(text))
 print('           {}'.format('-' * text_length))
