@@ -12,6 +12,6 @@ facts = {
 }
   
 displayFacts(facts)
-facts[''] = ''
-facts[''] = ''
+facts['Minnesota'] = 'name comes from a Sioux word meaning "sky-tinted water'
+facts['Maryam Mirzakhani'] = 'an Iranian mathematician and professor at Stanford, researched Teichmuller theory, hyperbolic geometry, ergodic theory, and symplectic geometry'
 displayFacts(facts)
