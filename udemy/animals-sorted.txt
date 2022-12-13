@@ -1,0 +1,6 @@
+bear
+cow
+dogduck
+horse
+man
+pig
